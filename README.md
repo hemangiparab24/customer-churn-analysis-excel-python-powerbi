@@ -43,10 +43,10 @@ This project aims to:
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-- Excel:  Data Cleaning & Preprocessing
-- Python: Pandas, NumPy, Matplotlib, Seaborn
-- Power BI: Interactive Dashboard & Visualizations
-- GitHub:  Project version control and documentation
+- **Excel:**  Data Cleaning & Preprocessing
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Power BI:** Interactive Dashboard & Visualizations
+- **GitHub:**  Project version control and documentation
 
 ---
 
