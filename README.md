@@ -33,7 +33,6 @@ This project aims to:
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-## Dataset
 - [Original Dataset](Data/Telco_Customer_Churn_Dataset.csv)
 - [Cleaned Dataset](Data/Clean_Telco_Customer_Churn_Dataset.csv)
 - Cleaned using Excel and Python
